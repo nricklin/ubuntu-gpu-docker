@@ -22,3 +22,5 @@ RUN cd /opt/nvidia_installers && \
 
 # Set path so that nvcc compiler can be found
 ENV PATH /usr/local/cuda-6.5/bin:$PATH
+
+ENV NATE HI
